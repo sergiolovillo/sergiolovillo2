@@ -1,2 +1,1 @@
-# sergiolovillo2
-Repositorio creado para realizar una práctica de la asignatura Entornos de Desarrollo del ciclo formativo Desarrollo de Aplicaciones Web
+# Este sencillo código Python consiste en la creación de una clase, la definición de un constructor, la creación de dos métodos y dos objetos y, por último, el acceso a los atributos de los objetos. Ha sido construido para realizar una práctica de la asignatura de Entornos de Desarrollo del ciclo formativo Desarrollo de Aplicaciones Web. 
